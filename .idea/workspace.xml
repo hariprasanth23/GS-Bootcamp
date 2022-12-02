@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52c296c2-6b66-4317-8f80-e8e95212e89e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/050a48ae3cffb9560b780e4d8774b7c2d7a15b0d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/063a3ad13650a94acaa9711c5bf4dca3d41217aa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2baa74a2b6086b84892006b798a0e3e573af7f3b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47596ab2514b5f2517caed55f9db1ed7e436ef20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e10fb630ddacca3d6d93690dfb41c1918e76c00" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/888c10e9d771c63f7ef4b9fc63428d5e0131d61c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc803db6ad7d6d4bd81447c03999c29f8225eec4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c35d7b9b80ebd6520fa6b56073efd865539fa9eb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e31e4f77164cdc6f0b360a05cc6d428c0659ac56" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BestTimeTOBuyAndSellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SplitAStringInBalancedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntegerToRoman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Goldman/GroupAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/ResultantArrayRemovingAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Goldman/ResultantArrayRemovingAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ResultantArrayRemovingAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ResultantArrayRemovingAnagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Trial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,23 +47,16 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/HP Akash/OneDrive/Wissen/WissenTraining&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RotateArray">
+  <component name="RunManager" selected="Application.BestTimeTOBuyAndSellStocks">
+    <configuration name="BestTimeTOBuyAndSellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BestTimeTOBuyAndSellStocks" />
+      <module name="Goldman" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GroupAnagrams" />
-      <module name="Goldman" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntegerToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntegerToRoman" />
-      <module name="Goldman" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ResultantArrayRemovingAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ResultantArrayRemovingAnagram" />
       <module name="Goldman" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,8 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trial" />
+    <configuration name="SplitAStringInBalancedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SplitAStringInBalancedString" />
+      <module name="Goldman" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverseInteger" />
       <module name="Goldman" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.IntegerToRoman" />
-        <item itemvalue="Application.ResultantArrayRemovingAnagram" />
+        <item itemvalue="Application.BestTimeTOBuyAndSellStocks" />
+        <item itemvalue="Application.reverseInteger" />
+        <item itemvalue="Application.SplitAStringInBalancedString" />
         <item itemvalue="Application.GroupAnagrams" />
-        <item itemvalue="Application.Trial" />
+        <item itemvalue="Application.RotateArray" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +103,7 @@
       <updated>1669707792548</updated>
       <workItem from="1669707795892" duration="11000000" />
       <workItem from="1669778138387" duration="15235000" />
-      <workItem from="1669858210648" duration="2352000" />
+      <workItem from="1669858210648" duration="15066000" />
     </task>
     <servers />
   </component>

@@ -6,34 +6,30 @@ import java.util.stream.Collectors;
 
 public class GroupAnagrams {
 
-    public Boolean anagramcheck(String str1, String str2){
-        String str3=Arrays.stream(str1.split("")).sorted().collect(Collectors.joining());
-        String str4=Arrays.stream(str2.split("")).sorted().collect(Collectors.joining());
-        return str3.equals(str4);
+    public String sortedString(String str){
+        String sortedString= Arrays.stream(str.split("")).sorted().collect(Collectors.joining());
+        return sortedString;
     }
 
 
     public List<List<String>> groupAnagram(String[] str){
 
         List<String> stringList = new ArrayList<>(Arrays.asList(str));
+        List<String> stringList2 = new ArrayList<>();
         List<List<String>> groupAnagramList = new ArrayList<>();
 
-        while(!stringList.isEmpty()){
-
-            String checkstring = stringList.get(0);
-            ArrayList<String> tempList = new ArrayList<>();
-
-            for(int i=0;i<stringList.size();i++){
-
-                if(anagramcheck(checkstring,stringList.get(i))){
-                    tempList.add(stringList.get(i));
-                }
+        for(int i=0;i<stringList.size();i++){
+            String temp=sortedString(stringList.get(i));
+            if(stringList2.contains(temp)){
+                groupAnagramList.get(stringList2.indexOf(temp)).add(stringList.get(i));
+            }else{
+                stringList2.add(temp);
+                List<String> temp2 = new ArrayList<>();
+                temp2.add(stringList.get(i));
+                groupAnagramList.add(temp2);
             }
-            groupAnagramList.add(tempList);
-            stringList.removeAll(tempList);
         }
-        System.out.println(groupAnagramList);
-        return null;
+        return groupAnagramList;
     }
 
     public static void main(String[] args){

@@ -5,6 +5,7 @@ import java.util.stream.Collectors;
 
 public class ResultantArrayRemovingAnagram {
 
+
     public Boolean anagramcheck(String str1, String str2){
         String str3= Arrays.stream(str1.split("")).sorted().collect(Collectors.joining());
         String str4=Arrays.stream(str2.split("")).sorted().collect(Collectors.joining());
@@ -13,17 +14,19 @@ public class ResultantArrayRemovingAnagram {
 
 
     public List<String> RemovingAnagram(String[] str){
-
         List<String> stringList = new ArrayList<>(Arrays.asList(str));
-            for(int i=0;i<stringList.size()-1;i++){
-                for(int j=i+1;j<stringList.size();j++){
-                    if(anagramcheck(stringList.get(i),stringList.get(j))){
-                        stringList.set(j,stringList.get(i));
-                    }
-                }
-            }
+        List<String> finalList = new ArrayList<>();
 
-        return stringList.stream().distinct().collect(Collectors.toList());
+        if(stringList.size()==1){
+            return stringList;
+        }
+        finalList.add(stringList.get(0));
+        for(int i=1;i<stringList.size();i++){
+            if(!anagramcheck(finalList.get(finalList.size()-1),stringList.get(i))){
+                finalList.add(stringList.get(i));
+            }
+        }
+        return finalList;
     }
 
     public static void main(String[] args){
