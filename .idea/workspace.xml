@@ -2,15 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52c296c2-6b66-4317-8f80-e8e95212e89e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BestTimeTOBuyAndSellStocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SplitAStringInBalancedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MorganQuestion/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MorganQuestion/Threadexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/parallelStream/ParallelStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/AdapterDesignPattern/AdapterDesignPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/EqualNumberofvalues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/HashMapCustomApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/Poobesh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/designpattern/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/designpattern/Builder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/designpattern/EnumSingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/designpattern/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/designpattern/factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/reverseUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/singletonDesignPattern/DoubleCheckLazySingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/singletonDesignPattern/EagerSingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/singletonDesignPattern/LazySingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/singletonDesignPattern/MyCloneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/singletonDesignPattern/MyReflectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/singletonDesignPattern/MySerializableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/strategyDesignPattern/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/strategyDesignPattern/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/strategyDesignPattern/ShoppingCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/BestTimeTOBuyAndSellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/CountPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/LaserBeamsInABank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/MinimumSumOfNumbersAfterSplitting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/PartitionArrayToPivot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/QueueUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/ReducingDishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/SuperUglyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/ToeplitzMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/Trial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/UglyNumbersII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/climbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/fractionToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/longestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/longestUniformString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/reshapematrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gs/subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedhashmap/custom/LinkedHashMapCustomApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedhashmap/custom/MultiValuedMap/MultivalueMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedhashmap/custom/ThreadPool/ThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedhashmap/custom/lru/lruUsingDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedhashmap/custom/lru/lrudemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/CallableAndFuture/CallableAndFutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/CompletableFuture/CallableFutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/ConcurrentHashmap/ConcurrentHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/ConcurrentHashmap/Issue/MultipleThreadAccessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/ConcurrentHashmap/Issue/MultipleThreadAccessing1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/ExecutorService/ExecutorServiceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/InterThreadCommunication/InterThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/Synchronization/SynchronizedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/ThreadInterruption/ThreadInterruptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/ThreadLocal/ThreadLocalDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/ThreadMethods/ThreadJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/ThreadMethods/ThreadYieldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/basicThreadInstantiate/MyRunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/basicThreadInstantiate/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/getAndSetName/ThreadNameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/priority/ThreadPriorityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/priority/ThreadPriorityDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/semaphore/ProducerConsumerProblem/BlockingQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/semaphore/ProducerConsumerProblem/Reentrant_ProdCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/semaphore/ProducerConsumerProblem/Threadexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/semaphore/semaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainings/MemoryLeakExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainings/ReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainings/TreeMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainings/WeakReferenceCloneExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Goldman/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Goldman/GroupAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Goldman/ResultantArrayRemovingAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Goldman/ResultantArrayRemovingAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ResultantArrayRemovingAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ResultantArrayRemovingAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/BalancingParanthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/BestTimeTOBuyAndSellStocks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/ContainerWithMostWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/FirstindexFirstOccurence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/GroupAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/IntegerToRoman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/LongestCommonPrefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/PartitionArrayToPivot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/ResultantArrayRemovingAnagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/RotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/SplitAStringInBalancedString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/Trial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/ValidPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Goldman/reverseInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BalancingParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/BalancingParanthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BestTimeTOBuyAndSellStocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstindexFirstOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/FirstindexFirstOccurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/IntegerToRoman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PartitionArrayToPivot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ResultantArrayRemovingAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/ResultantArrayRemovingAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SplitAStringInBalancedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/SplitAStringInBalancedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gs/reverseInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,52 +141,87 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP Akash/OneDrive/Wissen/WissenTraining&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP Akash/OneDrive/Goldman Sachs/Goldman/src/gfg/singletonDesignPattern&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BestTimeTOBuyAndSellStocks">
-    <configuration name="BestTimeTOBuyAndSellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BestTimeTOBuyAndSellStocks" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP Akash\OneDrive\Goldman Sachs\Goldman\src\gfg\singletonDesignPattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThreadPoolDemo">
+    <configuration name="MultivalueMapDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedhashmap.custom.MultiValuedMap.MultivalueMapDemo" />
       <module name="Goldman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedhashmap.custom.MultiValuedMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GroupAnagrams" />
+    <configuration name="MultivalueMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedhashmap.custom.MultiValuedMap.MultivalueMapDemo" />
       <module name="Goldman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedhashmap.custom.MultiValuedMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateArray" />
+    <configuration name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedhashmap.custom.ThreadPool.ThreadPoolDemo" />
       <module name="Goldman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedhashmap.custom.ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitAStringInBalancedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SplitAStringInBalancedString" />
+    <configuration name="lruUsingDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedhashmap.custom.lru.lruUsingDeque" />
       <module name="Goldman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedhashmap.custom.lru.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseInteger" />
+    <configuration name="lrudemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedhashmap.custom.lru.lrudemo" />
       <module name="Goldman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedhashmap.custom.lru.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BestTimeTOBuyAndSellStocks" />
-        <item itemvalue="Application.reverseInteger" />
-        <item itemvalue="Application.SplitAStringInBalancedString" />
-        <item itemvalue="Application.GroupAnagrams" />
-        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.ThreadPoolDemo" />
+        <item itemvalue="Application.lruUsingDeque" />
+        <item itemvalue="Application.MultivalueMapDemo" />
+        <item itemvalue="Application.MultivalueMapDemo (1)" />
+        <item itemvalue="Application.lrudemo" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +235,35 @@
       <updated>1669707792548</updated>
       <workItem from="1669707795892" duration="11000000" />
       <workItem from="1669778138387" duration="15235000" />
-      <workItem from="1669858210648" duration="15066000" />
+      <workItem from="1669858210648" duration="19993000" />
+      <workItem from="1670049641315" duration="3516000" />
+      <workItem from="1670173203350" duration="7017000" />
+      <workItem from="1670242964556" duration="46217000" />
+      <workItem from="1670521592421" duration="505000" />
+      <workItem from="1670559731630" duration="11684000" />
+      <workItem from="1670850770691" duration="3051000" />
+      <workItem from="1671168845495" duration="2244000" />
+      <workItem from="1671265122935" duration="423000" />
+      <workItem from="1671275280165" duration="597000" />
+      <workItem from="1671388334571" duration="8156000" />
+      <workItem from="1671508875092" duration="2303000" />
+      <workItem from="1671540186212" duration="5224000" />
+      <workItem from="1671640087159" duration="10722000" />
+      <workItem from="1671729835521" duration="2208000" />
+      <workItem from="1672045245774" duration="10954000" />
+      <workItem from="1672117175387" duration="7820000" />
+      <workItem from="1672632151443" duration="1731000" />
+      <workItem from="1672810641597" duration="593000" />
+      <workItem from="1672821649467" duration="1824000" />
+      <workItem from="1672838934055" duration="1362000" />
+      <workItem from="1672850530274" duration="2190000" />
+      <workItem from="1672857788175" duration="708000" />
+      <workItem from="1672883908095" duration="6820000" />
+      <workItem from="1672892304554" duration="330000" />
+      <workItem from="1672976662423" duration="3943000" />
+      <workItem from="1672981099108" duration="3540000" />
+      <workItem from="1673158342419" duration="714000" />
+      <workItem from="1673187833374" duration="21339000" />
     </task>
     <servers />
   </component>
